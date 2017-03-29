@@ -4,7 +4,7 @@ int main()
 {
 	int i = 10;
 	printf("%d", i);
-	printf("수정된 파일");
+	printf("두번째 수정");
 
 	return 0;
 }
